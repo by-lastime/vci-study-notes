@@ -1,0 +1,17 @@
+{
+  "name": "vci-study-notes",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "持续更新的课程复习笔记与 HTML 阅读器",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "start": "python3 -m http.server 8765 --bind 127.0.0.1 --directory site",
+    "pdf": "python3 site/scripts/export_pdf.py && node site/scripts/build.mjs"
+  },
+  "dependencies": {
+    "highlight.js": "11.11.1",
+    "katex": "0.16.22",
+    "marked": "16.3.0"
+  }
+}

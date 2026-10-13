@@ -1,0 +1,105 @@
+{
+  "id": "vci",
+  "title": "VCI 可视计算与交互复习笔记",
+  "description": "从 Lab 1 的二维绘制出发，解释颜色、显示、图像处理、光栅化、插值、曲线和采样，并整理真题参考解析、独立自测与补充问答。",
+  "scope": "当前为第一阶段讲解版，覆盖已提供的 01–07 课件及 Lab 1 相关原理，15 章沿用讲义编号。课程尚未结束，也未据此宣称老师确认的完整考试范围。",
+  "status": "持续更新中",
+  "updatedAt": "2026-10-13",
+  "releaseDate": "2026-10-13",
+  "repositoryUrl": "https://github.com/by-lastime/vci-study-notes",
+  "readerUrl": "https://by-lastime.github.io/vci-study-notes/",
+  "chapters": [
+    {
+      "id": "overview",
+      "title": "阅读路线与范围",
+      "url": "https://by-lastime.github.io/vci-study-notes/#doc=overview"
+    },
+    {
+      "id": "d1",
+      "title": "1 引言：可视计算与交互在研究什么",
+      "url": "https://by-lastime.github.io/vci-study-notes/#doc=d1"
+    },
+    {
+      "id": "d2",
+      "title": "2 颜色：光、数字和感知",
+      "url": "https://by-lastime.github.io/vci-study-notes/#doc=d2"
+    },
+    {
+      "id": "d3",
+      "title": "3 图像表示与显示",
+      "url": "https://by-lastime.github.io/vci-study-notes/#doc=d3"
+    },
+    {
+      "id": "d4",
+      "title": "4 图像滤波：从核到手算",
+      "url": "https://by-lastime.github.io/vci-study-notes/#doc=d4"
+    },
+    {
+      "id": "d5",
+      "title": "5 修复、融合与抠图",
+      "url": "https://by-lastime.github.io/vci-study-notes/#doc=d5"
+    },
+    {
+      "id": "d6",
+      "title": "6 光栅化：直线、圆与增量算法",
+      "url": "https://by-lastime.github.io/vci-study-notes/#doc=d6"
+    },
+    {
+      "id": "d7",
+      "title": "7 多边形、三角形与插值",
+      "url": "https://by-lastime.github.io/vci-study-notes/#doc=d7"
+    },
+    {
+      "id": "d8",
+      "title": "8 贝塞尔曲线：构造、性质与真题证明",
+      "url": "https://by-lastime.github.io/vci-study-notes/#doc=d8"
+    },
+    {
+      "id": "d9",
+      "title": "9 样条：低次分段和局部控制",
+      "url": "https://by-lastime.github.io/vci-study-notes/#doc=d9"
+    },
+    {
+      "id": "d10",
+      "title": "10 抖动与误差扩散",
+      "url": "https://by-lastime.github.io/vci-study-notes/#doc=d10"
+    },
+    {
+      "id": "d11",
+      "title": "11 采样、反走样与超采样",
+      "url": "https://by-lastime.github.io/vci-study-notes/#doc=d11"
+    },
+    {
+      "id": "d12",
+      "title": "12 Lab 1 对照：从做出效果到说清原理",
+      "url": "https://by-lastime.github.io/vci-study-notes/#doc=d12"
+    },
+    {
+      "id": "d14",
+      "title": "14 自测变式与答案",
+      "url": "https://by-lastime.github.io/vci-study-notes/#doc=d14"
+    },
+    {
+      "id": "d15",
+      "title": "15 公式速查、使用约定与来源",
+      "url": "https://by-lastime.github.io/vci-study-notes/#doc=d15"
+    },
+    {
+      "id": "supplements",
+      "title": "补充问答 · Q001–Q017",
+      "url": "https://by-lastime.github.io/vci-study-notes/#doc=supplements"
+    }
+  ],
+  "answers": [
+    {
+      "id": "d13",
+      "title": "第13章：去年真题逐题参考解析",
+      "url": "https://by-lastime.github.io/vci-study-notes/#doc=d13"
+    },
+    {
+      "id": "d14",
+      "title": "第14章：16道自测与逐题折叠答案",
+      "url": "https://by-lastime.github.io/vci-study-notes/#doc=d14"
+    }
+  ]
+}
